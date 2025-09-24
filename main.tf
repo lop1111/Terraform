@@ -1,7 +1,7 @@
 provider "aws" {
 
     region = "ap-south-1"
-    profile = "default"
+    profile = "Lokesh_Devops3"
     shared_credentials_files =  ["~/.aws/credentials"]
   
 }
